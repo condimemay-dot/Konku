@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
+loadstring(game:HttpGet("https://pastefy.app/DOLMaA4r/raw"))()
 --[[
     Abacaxi Hub - Optimized Version
     Performance & Code Quality Improvements
